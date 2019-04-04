@@ -1,10 +1,10 @@
 <!-- default file list -->
 *Files to look at*:
 
-* [Default.aspx](./CS/WebSite/Default.aspx) (VB: [Default.aspx.vb](./VB/WebSite/Default.aspx.vb))
+* [Default.aspx](./CS/WebSite/Default.aspx) (VB: [Default.aspx](./VB/WebSite/Default.aspx))
 * [Default.aspx.cs](./CS/WebSite/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/WebSite/Default.aspx.vb))
 * [EditFormContent.aspx](./CS/WebSite/EditFormContent.aspx) (VB: [EditFormContent.aspx](./VB/WebSite/EditFormContent.aspx))
-* [EditFormContent.aspx.cs](./CS/WebSite/EditFormContent.aspx.cs) (VB: [EditFormContent.aspx](./VB/WebSite/EditFormContent.aspx))
+* [EditFormContent.aspx.cs](./CS/WebSite/EditFormContent.aspx.cs) (VB: [EditFormContent.aspx.vb](./VB/WebSite/EditFormContent.aspx.vb))
 <!-- default file list end -->
 # ASPxGridView - How to print an edit form content
 
